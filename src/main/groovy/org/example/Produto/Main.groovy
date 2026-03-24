@@ -1,4 +1,4 @@
-package org.example
+package org.example.Produto
 
 static void main(String[] args) {
     Produto produto = new Produto(nome: 'Notebook', preco: 2000.00, quantidade: 3)

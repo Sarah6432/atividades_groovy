@@ -1,4 +1,4 @@
-package org.example
+package org.example.Produto
 
 class Produto {
    String nome
