@@ -1,4 +1,4 @@
-package org.exemple.Funcionario
+package org.example.Funcionario
 
 class Funcionario {
     String nome
